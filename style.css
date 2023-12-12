@@ -1,0 +1,12 @@
+/* Aiemmat tyylit */
+.sivun-osio {
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin: 10px;
+  }
+  
+  /* Uusi määritys lisättävälle luokalle */
+  .jsharkkatyyli {
+    display: none;
+  }
+  
